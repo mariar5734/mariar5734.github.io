@@ -3,6 +3,8 @@ h1 {
     font-size: 50px;
     font-style: oblique;
     text-align: center;
+    width:fit-content;
+    margin: auto;
 }
 h2 {
     color:#907;
@@ -21,11 +23,11 @@ body{
 }
 
 h1 {
-    font-size: 50px ;
+    font-size: 40px ;
     font-style:oblique;
     text-align: center;
 }
-h2 {
+h3 {
     font-size: 30px ;
     font-style:italic;
     text-align: left;
@@ -37,12 +39,13 @@ p {font-size: 20px;
     text-align: left;
 }
 
-h1{font-size: 20px;
+
+h4{font-size: 40px;
     font-style:italic;
     text-align: left;
     color: #909;
-    border-top: 2px solid #908;
-    
+
+  
 
 }
 
@@ -50,10 +53,12 @@ ol{
     font-size: 16px;
     font-style: italic;
     text-align: left;
+    border-style:solid;
     border-radius: 25px;
     border-color: #908;
+    width:fit-content;
+    margin:left;
 }
-
 img{
     text-align: center;
 }
@@ -65,4 +70,22 @@ img{
     width: 600px;
     display: block;
     margin: auto;
+}
+
+
+div{
+    font-size: 16px;
+    font-style: normal;
+    text-align: left;
+    border-style:solid;
+    border-radius: 25px;
+    border-color: #908;
+    width:fit-content;
+    margin:left;
+}
+
+span{
+    font-weight: bold;
+    font-size: 19px;
+    font-style: normal;
 }
