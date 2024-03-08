@@ -29,6 +29,7 @@ h1 {
 }
 h3 {
     font-size: 30px ;
+    color: #907;
     font-style:italic;
     text-align: left;
 }
@@ -40,10 +41,10 @@ p {font-size: 20px;
 }
 
 
-h4{font-size: 40px;
+h4{font-size: 35px;
     font-style:italic;
     text-align: left;
-    color: #909;
+    color: #907;
 
   
 
@@ -88,4 +89,8 @@ span{
     font-weight: bold;
     font-size: 19px;
     font-style: normal;
+}
+
+.filme{
+    background-color: aquamarine;
 }
