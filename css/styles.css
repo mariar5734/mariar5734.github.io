@@ -92,5 +92,25 @@ span{
 }
 
 .filme{
-    background-color: aquamarine;
+    background-color:plum;
+}
+
+
+div{
+    margin: 50px;
+    background-image: url('img/Livro-Como-Eu-Era-Antes-de-Voce-Jojo-Moyes-1995575.webp');
+    background-size:auto;
+    height: 40vw;
+    background-attachment: fixed;
+    
+}
+
+img{
+    width: 300px;
+    text-align: center;
+}
+
+.livro{
+    background-color:plum;
+
 }
