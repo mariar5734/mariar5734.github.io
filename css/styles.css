@@ -106,7 +106,7 @@ div{
 }
 
 img{
-    width: 300px;
+    width: 400px;
     text-align: center;
 }
 
@@ -114,3 +114,18 @@ img{
     background-color:plum;
 
 }
+
+h5{
+    font-size: 25px;
+    font-style:normal;
+    text-align: left;
+    color: #907;
+ 
+ }
+
+ a{
+    font-size: 20px;
+    font-style:normal;
+    text-align: left;
+    color:magenta;
+ }
