@@ -11,6 +11,7 @@ h2 {
     font-size: 30px;
     font-style: italic;
     text-align: left;
+    margin-top:  100px ;
 }
 p {font-size: 20px;
     font-style: italic;
@@ -108,7 +109,7 @@ div{
 }
 
 img{
-    width: 300px;
+    width: 278px;
     text-align: center;
 }
 
@@ -130,4 +131,26 @@ h5{
     font-style:normal;
     text-align: left;
     color:magenta;
+ }
+
+ ul{
+    margin-left: 00px;
+
+ }
+
+ li{
+    display:inline;
+    margin-left: 15px;
+    
+ }
+ a:hover{
+
+    color: #908;
+ }
+
+ header{
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    background-color:black;
  }
