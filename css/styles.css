@@ -53,22 +53,24 @@ h4{font-size: 35px;
 ol{
     font-size: 16px;
     font-style: italic;
-    text-align: left;
+    text-align: center;
     border-style:solid;
-    border-radius: 25px;
+    border-radius: 80px;
     border-color: #908;
     width:fit-content;
-    margin:left;
+    margin:center;
 }
 img{
     text-align: center;
+    width: 300px;
+
 }
 
 a{
     text-decoration: none;
 }
 img{
-    width: 600px;
+    width: 300px;
     display: block;
     margin: auto;
 }
@@ -95,18 +97,17 @@ span{
     background-color:plum;
 }
 
-
 div{
-    margin: 50px;
+    margin: 40px;
     background-image: url('img/Livro-Como-Eu-Era-Antes-de-Voce-Jojo-Moyes-1995575.webp');
-    background-size:auto;
+    background-size:center;
     height: 40vw;
     background-attachment: fixed;
-    
+
 }
 
 img{
-    width: 400px;
+    width: 300px;
     text-align: center;
 }
 
