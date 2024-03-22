@@ -63,7 +63,7 @@ ol{
 }
 img{
     text-align: center;
-    width: 300px;
+    width: 400px;
 
 }
 
@@ -71,7 +71,7 @@ a{
     text-decoration: none;
 }
 img{
-    width: 300px;
+    width: 400px;
     display: block;
     margin: auto;
 }
@@ -130,11 +130,11 @@ h5{
     font-size: 20px;
     font-style:normal;
     text-align: left;
-    color:magenta;
+    color:#909;
  }
 
  ul{
-    margin-left: 00px;
+    margin-left: -50px;
 
  }
 
@@ -145,12 +145,14 @@ h5{
  }
  a:hover{
 
-    color: #908;
+    color: magenta;
  }
 
  header{
     position: fixed;
     width: 100%;
     top: 0%;
-    background-color:black;
+    background-color:rgba(236, 140, 199, 0.904)
  }
+
+ 
