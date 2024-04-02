@@ -36,10 +36,8 @@ h3 {
 }
 
 
-p {font-size: 20px;
-    font-style: italic;
-    text-align: left;
-}
+
+
 
 
 h4{font-size: 35px;
@@ -109,7 +107,7 @@ div{
 }
 
 img{
-    width: 278px;
+    width: 33vw;
     text-align: center;
 }
 
@@ -133,16 +131,9 @@ h5{
     color:#909;
  }
 
- ul{
-    margin-left: -50px;
-
- }
-
- li{
-    display:inline;
-    margin-left: 15px;
+ 
     
- }
+ 
  a:hover{
 
     color: magenta;
@@ -152,7 +143,50 @@ h5{
     position: fixed;
     width: 100%;
     top: 0%;
+    left: 0;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    padding: 00px;
+    box-sizing: border-box;
+    font-size: 30px;
+    font-weight: bold;
+    box-shadow: 0 8px 10px rgb(196, 100, 172);
     background-color:rgba(236, 140, 199, 0.904)
  }
 
- 
+ nav{
+    margin-left: center;
+ }
+
+ nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+ }
+
+
+ nav ul li {
+    margin-left: 20px;
+ }
+
+ nav ul li :first-child{
+    margin-left: 0;
+ }
+
+    nav ul li{
+    font-size: 20px;
+    font-style:normal;
+    text-align: left;
+    color:#909;
+
+}
+
+
+
+p {font-size: 20px;
+    font-style: italic;
+    text-align: left;
+
+}
