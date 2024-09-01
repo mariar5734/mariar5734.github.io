@@ -11,6 +11,23 @@ header{
     font-size: 30px;
     font-weight: bold;
     box-shadow: 10 8px 10px rgb(197, 107, 175);
+
+
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    left: 0;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    padding: 00px;
+    box-sizing: border-box;
+    font-size: 30px;
+    font-weight: bold;
+    box-shadow: 0 8px 10px rgb(239, 103, 205);
+    background-color:rgba(249, 139, 234, 0.904)
+   
+    
    
 
    
@@ -54,6 +71,7 @@ section{
 .projetos-container{
     display:flex;
     flex-wrap: wrap ;
+    text-align: center;
 
 }
 
@@ -64,6 +82,7 @@ section{
     padding: 60px;
     margin: 60px;
     width: calc(33% - 20px);
+    text-align: center;
 
 }
 
@@ -92,10 +111,13 @@ footer{
 a{
     color:white;
     font-weight: bold;
+    text-align: center;
 }
 
 #mim{
     font-size: 40px;
+    text-align: center;
+    
 }
 
 #meus{
@@ -109,5 +131,29 @@ a{
 
 #cont{
     text-align:center;
+}
+
+
+#img{
+    width: 350px;
+  
+    
+
+}
+
+#inicial{
+    text-align: center;
+    padding: 10px 0;
+}
+
+#livro{
+    width: 250px;
+    text-align: center;
+}
+
+#portifolio{
+    margin-top: 100px;
+    font-size: 40px;
+
 }
 
